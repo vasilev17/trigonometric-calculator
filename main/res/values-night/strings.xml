@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="function_card">Function Card</string>
+    <string name="italic_f">ƒ</string>
+    <string name="todo">TODO</string>
+</resources>

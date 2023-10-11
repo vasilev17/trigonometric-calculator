@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ElevatedCard">
+        <item name="android:outlineProvider">none</item>
+        <item name="android:elevation">10dp</item>
+    </style>
+
+    <style name="ElevatedText">
+        <item name="android:outlineProvider">none</item>
+        <item name="android:elevation">11dp</item>
+    </style>
+
+    <style name="ElevatedSQRTButtonContainer">
+        <item name="android:elevation">26dp</item>
+    </style>
+
+    <style name="ElevatedSQRTButton">
+        <item name="android:outlineProvider">none</item>
+        <item name="android:elevation">27dp</item>
+
+    </style>
+
+
+</resources>

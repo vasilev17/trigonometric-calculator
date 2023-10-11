@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MathStuff</string>
+
+    <string name="lbl_title">Trigonometric Calculator</string>
+
+    <string name= "lbl_sin">Sin</string>
+    <string name= "lbl_cos">Cos</string>
+    <string name= "lbl_tg">Tg</string>
+    <string name= "lbl_cotg">Cotg</string>
+
+    <string name="btn_calculate">Calculate</string>
+
+    <string name= "placeholder_numerator">Numerator</string>
+    <string name= "placeholder_denominator">Denominator</string>
+    <string name= "sqrt_sign">√</string>
+    <string name="clear">clear</string>
+
+</resources>
